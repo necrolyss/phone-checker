@@ -1,0 +1,255 @@
+﻿Afghanistan;93;;9
+Albania;355;;3-9
+Algeria;213;;8,9
+American Samoa;1;684;10
+Andorra;376;;6,8,9
+Angola;244;;9
+Anguilla;1;264;10
+Antigua and Barbuda;1;268;10
+Argentina;54;;10
+Armenia;374;;8
+Aruba;297;;7
+Ascension;247;;4
+Australia;61;;4-15
+Australian Capital Territory;672;;6
+Austria;43;;4-13
+Azerbaijan;994;;8-9
+Bahamas,The;1;242;10
+Bahrain;973;;8
+Bangladesh;880;;6-10
+Barbados;1;246;10
+Belarus;375;;9-10
+Belgium;32;;8-9
+Belize;501;;7
+Benin;229;;8
+Bermuda;1;441;10
+Bhutan;975;;7-8
+Bolivia;591;;8
+Bosnia and Herzegovina;387;;8
+Botswana;267;;7-8
+Brazil;55;;10
+British Virgin Islands;1;284;10
+Brunei;673;;7
+Bulgaria;359;;7-9
+Burkina Faso;226;;8
+Burma;95;;7-9
+Burundi;257;;8
+Cambodia;855;;8
+Cameroon;237;;8
+Alberta;1;403|587|780;10
+British Columbia;1;250|604|778;10
+Québec;1;418|438|450|514|579|581|819;10
+Manitoba;1;204;10
+Nova Scotia;1;902;10
+Nunavut;1;867;10
+New Brunswick;1;506;10
+Newfoundland and Labrador;1;709;10
+Ontario;1;226|249|289|343|416|519|613|647|705|807|905;10
+Prince Edward Island;1;902;10
+Saskatchewan;1;306;10
+Northwest Territories;1;867;10
+Yukon;1;867;10
+Cape Verde;238;;7
+Cayman Islands;1;345;10
+Central African Republic;236;;8
+Chad;235;;6,7
+Chile;56;;8-9
+China;86;;5-12
+Colombia;57;;8,10
+Comoros;269;;7
+Congo,Democratic Republic of the;243;;5-9
+Congo,Republic of the;242;;6-7
+Cook Islands;682;;5
+Costa Rica;506;;8
+Côte d'Ivoire;225;;8
+Croatia;385;;8-12
+Cuba;53;;6-8
+Cyprus;357;;8,11
+Czech Republic;420;;4-12
+Denmark;45;;8
+Diego Garcia;246;;7
+Djibouti;253;;6
+Dominica;1;767;10
+Dominican Republic;1;809|829;10
+Ecuador;593;;8
+Egypt;20;;7-9
+El Salvador;503;;7,8,11
+Equatorial Guinea;240;;6
+Eritrea;291;;7
+Estonia;372;;7-10
+Ethiopia;251;;9
+Falkland Islands (Islas Malvinas);500;;5
+Faroe Islands;298;;6
+Fiji;679;;7
+Finland;358;;5-12
+France;33;;9
+French Departments and Territories in the Indian Ocean;262;;9
+French Guiana;594;;9
+French Polynesia;689;;6
+Gabon;241;;6,7
+Gambia,The;220;;7
+Georgia;995;;8
+Germany;49;;6-13
+Ghana;233;;5-9
+Gibraltar;350;;8
+Global Mobile SatelliteSystem (GMSS),sharedcode;881;;
+Greece;30;;10
+Greenland;299;;6
+Grenada;1;473;10
+Group of countries,shared code;388;;
+Guadeloupe;590;;9
+Guam;1;671;10
+Guatemala;502;;8
+Guinea;224;;8
+Guinea-Bissau;245;;7
+Guyana;592;;7
+Haiti;509;;8
+Holy See (Vatican City);379;;
+Holy See (Vatican City);39;;1-11
+Honduras;504;;7,8
+Hong Kong;852;;4,8,9
+Hungary;36;;8-9
+Iceland;354;;7,9
+India;91;;7-10
+Indonesia;62;;5-10
+Inmarsat SNAC;870;;9
+International Freephone Service;800;;8
+International Networks,shared code;882;;
+International Networks,shared code;883;;
+International Premium Rate Service (IPRS);979;;9
+International Shared Cost Service (ISCS);808;;8
+Iran;98;;6-10
+Iraq;964;;8-10
+Ireland;353;;7-11
+Israel;972;;8-9
+Italy;39;;9-11
+Jamaica;1;876;10
+Japan;81;;9-10
+Jordan;962;;5-9
+Kenya;254;;6-10
+Kiribati;686;;5
+Korea,North;850;;3-10
+Korea,South;82;;8-11
+Kuwait;965;;7,8
+Kyrgyzstan;996;;9
+Laos;856;;8-9
+Latvia;371;;7,8
+Lebanon;961;;7-8
+Lesotho;266;;8
+Liberia;231;;7-8
+Libya;218;;8-9
+Liechtenstein;423;;7-9
+Lithuania;370;;8
+Luxembourg;352;;4-11
+Macau;853;;7-8
+Macedonia [FYROM];389;;8
+Madagascar;261;;9-10
+Malawi;265;;7,8
+Malaysia;60;;7-9
+Maldives;960;;7
+Mali;223;;8
+Malta;356;;8
+Marshall Islands;692;;7
+Martinique;596;;9
+Mauritania;222;;7
+Mauritius;230;;7
+Mayotte;269;;
+Mexico;52;;10
+Micronesia,Federated States of;691;;7
+Moldova;373;;8
+Monaco;377;;5-9
+Mongolia;976;;7-8
+Montenegro;382;;4-12
+Montserrat;1;664;10
+Morocco;212;;9
+Mozambique;258;;8-9
+Namibia;264;;6-10
+Nauru;674;;4,7
+Nepal;977;;8-9
+Netherlands;31;;9
+Netherlands Antilles;599;;6-8
+New Caledonia;687;;6
+New Zealand;64;;3-10
+Nicaragua;505;;8
+Niger;227;;8
+Nigeria;234;;7-10
+Niue;683;;4
+Northern Territory;1;670;10
+Norway;47;;5,8
+Oman;968;;7-8
+Pakistan;92;;8-11
+Palau;680;;7
+Panama;507;;7,8
+Papua New Guinea;675;;4-11
+Paraguay;595;;5-9
+Peru;51;;8-11
+Philippines;63;;8-10
+Poland;48;;6-9
+Portugal;351;;9,11
+Puerto Rico;1;787|939;10
+Qatar;974;;6,7,10
+Reserved;970;;
+Romania;40;;9
+Russia;7;([1-5]|[8-9])\d\d;10
+Kazakhstan;7;[6-7]\d\d;10
+Rwanda;250;;9
+Saint Helena;290;;4
+Saint Kitts and Nevis;1;869;10
+Saint Lucia;1;758;10
+Saint Pierre and Miquelon;508;;6
+Saint Vincent and the Grenadines;1;784;10
+Samoa;685;;3-7
+San Marino;378;;6-10
+Sao Tome and Principe;239;;7
+Saudi Arabia;966;;8-9
+Senegal;221;;9
+Serbia;381;;4-12
+Seychelles;248;;6
+Sierra Leone;232;;8
+Singapore;65;;8-12
+Slovakia;421;;4-9
+Slovenia;386;;8
+Solomon Islands;677;;5
+Somalia;252;;5-8
+South Africa;27;;9
+Spain;34;;9
+Sri Lanka;94;;9
+Sudan;249;;9
+Suriname;597;;6-7
+Swaziland;268;;7-8
+Sweden;46;;7-13
+Switzerland;41;;4-12
+Syria;963;;8-10
+Taiwan;886;;8-9
+Tajikistan;992;;9
+Tanzania;255;;9
+Telecommunications for Disaster Relief (TDR);888;;
+Thailand;66;;8,9
+Timor-Leste;670;;7
+Togo;228;;7
+Tokelau;690;;4
+Tonga;676;;5,7
+Trial of a proposed new international service,shared code;991;;
+Trinidad and Tobago;1;868;10
+Tristan da Cunha;290;;4
+Tunisia;216;;8
+Turkey;90;;10
+Turkmenistan;993;;8
+Turks and Caicos Islands;1;649;10
+Tuvalu;688;;5,6
+Uganda;256;;9
+Ukraine;380;;9
+United Arab Emirates;971;;8-9
+United Kingdom;44;;7-10
+United States;1;;10
+Universal Personal Telecommunication (UPT);878;;
+Uruguay;598;;4-11
+Uzbekistan;998;;9
+Vanuatu;678;;5,7
+Venezuela;58;;10
+Vietnam;84;;7-10
+Virgin Islands;1;340;10
+Wallis and Futuna;681;;6
+Yemen;967;;6-9
+Zambia;260;;9
+Zimbabwe;263;;5-9
